@@ -1,4 +1,4 @@
-baseURL = 'andrewantaya.com'
+baseURL = 'http://andrewantaya.com/'
 languageCode = 'en-us'
-title = 'Hi'
+title = 'Andrew Antaya'
 theme = 'ananke'
