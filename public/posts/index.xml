@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrew Antaya</title>
-    <link>http://andrewantaya.com/</link>
-    <description>Recent content on Andrew Antaya</description>
+    <title>Posts on Andrew Antaya</title>
+    <link>http://andrewantaya.com/posts/</link>
+    <description>Recent content in Posts on Andrew Antaya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Dec 2022 08:12:40 -0700</lastBuildDate><atom:link href="http://andrewantaya.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 08:12:40 -0700</lastBuildDate><atom:link href="http://andrewantaya.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who Am I</title>
       <link>http://andrewantaya.com/posts/who-am-i/</link>

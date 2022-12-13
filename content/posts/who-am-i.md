@@ -1,7 +1,7 @@
 ---
 title: "Who Am I"
 date: 2022-12-13T08:12:40-07:00
-draft: true
+draft: false
 ---
 
 ## Hi, I'm Andrew Antaya
@@ -16,4 +16,4 @@ I'm learning to embrace the philosphy of "learning in the open" where we build o
 
 ### [grazeR](https://github.com/amantaya/grazeR)
 
-I'm leading development of an R package called `grazeR` which is designed to facilitate the analysis of data from grazing studies. There isn't (to my knowledge) a standardized set of tools in the rangeland science and grazing management field to process and analyze data. From my experience interacting with other scientists, the typical steps are this: collect data, develop our own R or Python scripts to analyze data, publish our study, and then move on. That code, which is so integral to the conclusions drawn from our study, is rarely made public, and even more rarely, is reproducible and reusable. Each script is a one-off creation, and countless researchers have unnecessarily recreated the work of other researchers. Writing good code is HARD, and we can speed up the scientific discovery process by giving scientists the tools to automate the tedious and mundane, and achieve faster results.
+I'm leading development of an R package called `grazeR` which is designed to facilitate the analysis of data from grazing studies. There isn't (to my knowledge) a standardized set of tools in the rangeland science and grazing management field to process and analyze data. From my experience interacting with other scientists, the typical steps are this: collect data, develop our own R or Python scripts to analyze data, publish our study, and then move on. That code, which is so integral to the conclusions drawn from our study, is rarely made public, and even more rarely, is reproducible and reusable. Each script is a one-off creation, and countless researchers have unnecessarily recreated the work of other researchers. The `grazeR` R package aims to fix that, by giving researchers a standardized set tools to automate the tedious and mundane, and speed up the scientific discovery process by getting right to the results.
