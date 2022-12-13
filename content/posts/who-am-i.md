@@ -4,7 +4,7 @@ date: 2022-12-13T08:12:40-07:00
 draft: true
 ---
 
-# Hi, I'm Andrew Antaya
+## Hi, I'm Andrew Antaya
 
 This is my personal website where I post updates about my on-going GitHub projects, and where I write longer articles about data science, programming, and things I've picked up along the way. I'm currently a research specialist at the Univeristy of Arizona, where I work on studies related to rangeland management and grazing animals.
 
