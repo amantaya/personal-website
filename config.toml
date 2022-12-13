@@ -1,0 +1,4 @@
+baseURL = 'andrewantaya.com'
+languageCode = 'en-us'
+title = 'Hi'
+theme = 'ananke'
